@@ -1,0 +1,1 @@
+C:\thunderbird\Extensions\OpenProcenter@daitak.com

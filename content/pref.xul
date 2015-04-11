@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="chrome://global/skin/global.css" type="text/css"?>
+
+<prefwindow id="helloworld.pref" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul" 
+	title="Setting for OpenProcenter" bottons="accept,cancel">
+	<prefpane id="pref.general" label="General">
+		<preferences>
+			<preference id="extensions.openprocenter.host" name="extensions.openprocenter.host" type="string" />
+			<preference id="extensions.openprocenter.user" name="extensions.openprocenter.user" type="string" />
+			<preference id="extensions.openprocenter.password" name="extensions.openprocenter.password" type="string" />
+		</preferences>
+		<hbox>
+			<label id="host" value="Host       :" />
+			<textbox id="extensions.openprocenter.host" preference="extensions.openprocenter.host" />
+		</hbox>
+		<hbox>
+			<label id="user" value="User       :" />
+			<textbox id="extensions.openprocenter.user" preference="extensions.openprocenter.user" />
+		</hbox>
+		<hbox>
+			<label id="password" value="Password:" />
+			<textbox id="extensions.openprocenter.password" preference="extensions.openprocenter.password" type="password" />
+		</hbox>
+	</prefpane>
+</prefwindow>
