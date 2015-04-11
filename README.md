@@ -4,7 +4,9 @@
 ## How To Install
 
 1. ProcenterLiteアプリ(exe)を予めインストールし、パスを通しておく。
-2. xpiファイルをダウンロードし、Thunderbirdのアドオンウィンドウにドラッグ&ドロップしてこのアドオンをインストールする。
+2. xpiファイル以下のページからダウンロードし、Thunderbirdのアドオンウィンドウにドラッグ&ドロップしてこのアドオンをインストールする。
+ 
+  https://github.com/daitak/OpenProcenter/releases
 3. アドオンの設定ウィンドウから、接続するProcenterサーバのホスト名、ユーザ、パスワードを設定する。
 
 ## How To Use
