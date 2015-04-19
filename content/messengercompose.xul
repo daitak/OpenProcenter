@@ -1,0 +1,9 @@
+<overlay id="sample"
+        xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+    <script type="text/javascript" src="chrome://procenter/content/openProcenter.js"/>
+    <menupopup id="msgComposeContext">
+        <menuitem label="Open Procenter" oncommand="openProcenter();"/>
+    </menupopup>
+
+</overlay>

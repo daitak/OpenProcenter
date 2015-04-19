@@ -1,3 +1,4 @@
 content procenter content/
 overlay chrome://messenger/content/messenger.xul chrome://procenter/content/overlay.xul
+overlay chrome://messenger/content/messengercompose/messengercompose.xul chrome://procenter/content/messengercompose.xul
 
